@@ -122,7 +122,7 @@ The most important problem here may be the "egg and chicken" problem proposed by
 Here is the conversation between ChatGPT and me. I was wondering how GPT would make strategies to optimize the benefit, and as expected, several suggestions on how to choose an optimal participation level and how to avoid being detected as self-intrinsic-valued were offered. It is a bit surprising that ChatGPT concluded several situations that may cause high intrinsic values and make related strategies to humanity. Except for some unethical such as providing noises to cheat the system, GPT showed some bounded rationality to a large extent in this case.
 
 
-##Bibliography
+## Bibliography
 Aitharaju, Nitish. “Choiceflow as an Alternative to zTree and oTree.” Deckspire, December 9, 2016. https://deckspire.com/blog/choiceflow-vs-ztree-otree/.
 
 Luo, Bing, Yutong Feng, Shiqiang Wang, Jianwei Huang, and Leandros Tassiulas. 2023. “Incentive Mechanism Design for Unbiased Federated Learning with Randomized Client Participation.” ArXiv (Cornell University), April. https://doi.org/10.48550/arxiv.2304.07981.
