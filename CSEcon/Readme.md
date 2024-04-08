@@ -26,3 +26,15 @@ The synergy of computer science and economics to create innovation for the risin
 
 The dynamics between humans and AI agents have somehow been changed by human nature and current pioneering technology. In some way, AI may fit with the written theories better than humanity. Chen et al. (2023) conducted research by integrating ChatGPT into economic rationality and found that GPT showed a higher rationality score than humanity but is very sensitive to contexts and given choices. This is a great challenge to traditional economic theories since the diversity and complexity of humans always show exceptions for rationality, while AI tools can deeply learn and generate more rationality theories for computers to operate. This is somehow differentiated from the original purpose of those economic theories. The LLM (large language model) may be a way to both distinguish and conceptualize this interplay. Horton(2023) tried to preserve LLM as simulated economic agents by giving it endowments, information, and preferences. The rationality showed by simulated agents under some conditions is even more "human-like" than humanity. This is a direct way that we can sense the relationship between AI technology and bounded rationality, and to conceptualize this, one may suggest that the AI model is a bright tool to understand and better present human nature, like bounded rationality, through traditional economic theories and the help of intellectual humanity.**
 
+## Bibliography
+
+Barnes, Susan B. 2019. “Alan Kay - A.M. Turing Award Laureate.” Amturing.acm.org. 2019. https://amturing.acm.org/award_winners/kay_3972189.cfm.
+
+Chen, Yiting, Tracy Xiao Liu, You Shan, and Songfa Zhong. 2023. "The Emergence of Economic Rationality of GPT." Proceedings of the National Academy of Sciences - PNAS 120 (51): e2316205120-e2316205120.
+
+Frängsmyr, Tore. 2019. “The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2002.” NobelPrize.org. 2019. https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/.
+
+Horton, John J. 2023. Large Language Models as Simulated Economic Agents: What can we Learn from Homo Silicus?. Ithaca: Cornell University Library, arXiv.org. doi:10.48550/arxiv.2301.07543.
+
+Susan, Enyang Besong and Manases Mbengwor Natu. 2022. "A Critical Review of Information Asymmetry in the Business Cycle: How Digital Ledger Technology can Transform and Sustain the Business Cycle." PLOS Sustainability and Transformation 1 (7): e0000024.
+
