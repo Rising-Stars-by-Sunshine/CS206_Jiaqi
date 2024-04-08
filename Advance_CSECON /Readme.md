@@ -40,6 +40,10 @@ In the analysis, you must provide at least one example of your personal experien
 
 ### Answer2
 
+![MARL](Graphs/MARL.jpg)
+
+*Figure 4- FLOWCHART for MARL learning*
+
 I utilized Petting Zoo and found some external resources (Tianyu, 2023) to integrate the prisoner's dilemma game with the link below. 
 
 https://colab.research.google.com/drive/1m6JSD4IWyZLy2YLLHvBO1gGSOq5FZqgL#scrollTo=FFia62oHljHq&uniqifier=2
@@ -50,7 +54,7 @@ As the graph shows below, when agent A first cooperates, B will have the most pr
 
 ![PRISONER](Graphs/PRISONER.jpg)
 
-*Figure 4- output from prisoner's dilemma*
+*Figure 5- output from prisoner's dilemma*
 
 Existing articles support the idea, as Zhang et al.(2019) mentioned, that the challenges of applying MARL in real-world scenarios are due to the complexity of accurately modeling environments and agent interactions. This is the limitation of using current algorithms to detect the complex relationships caused by economic environments. To better solve this problem, we need to provide MARL with thousands of tags representing different personalities, relationships, and risk premiums based on research and categorization from a broadly diversified population base.
 
@@ -87,6 +91,10 @@ You must provide a concrete example: Conduct a mini-experiment by interviewing a
 
 ### Answer3
 
+![PAPER](Graphs/PAPER.jpg)
+
+*Figure 6-FLOWCHART for Luo et al. 2023*
+
 **Summary of the Paper (Luo et al. 2023)**
 
 Core Research Questions: This paper aims to design a practical incentive mechanism for FL with partial client participation that ensures convergence to an unbiased model. The model also needs to measure each client's participation level's contribution and data relevance to the model.
@@ -111,11 +119,11 @@ The most important problem here may be the "egg and chicken" problem proposed by
 
 ![CHAT1](Graphs/CHAT1.jpg)
 
-*Figure 5-communication with ChatGPT-1*
+*Figure 7-communication with ChatGPT-1*
 
 ![CHAT2](Graphs/CHAT2.jpg)
 
-*Figure 5-communication with ChatGPT-2*
+*Figure 8-communication with ChatGPT-2*
 
 
 
