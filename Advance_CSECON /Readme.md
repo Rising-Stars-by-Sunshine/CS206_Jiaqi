@@ -13,4 +13,4 @@ I had a suffering time with the oTree platform at the beginning, especially when
 
 One example from my personal experience would be, as the graph below shows, when I was trying to perform the trust game and the dictator game together by adding a constraint that the starting endowment of the dictator game was the exact amount that users left in the former trust game they played. By setting this constraint, I wish to create a continuous environment for the two games and better observe players' actions in the second game to see if they will make movements more biased toward rationality if some results in the first game change their minds. For example, one may be willing to offer the other player more endowments in the dictator game if the other player generously cooperated in the first game, which better shows bounded rationality. The problem occurred when I was trying to operate this idea on oTree studio, and due to the unfamiliar system and my poor coding skills, I finally failed to achieve this assumption.
 
-![Graph for oTree](Graphs/Graph for oTree.jpg)
+![Graph for oTree](Graphs/Graph_for_oTree.jpg)
