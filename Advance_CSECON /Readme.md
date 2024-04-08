@@ -7,7 +7,7 @@ Analyze your experience with oTree, identifying pain points in behavioral game t
 
 In the analysis, you must provide at least one example of your personal experience in deploying the trust game using oTree, together with a screenshot.
 
-**Answer1**
+### Answer1
 
 I had a suffering time with the oTree platform at the beginning, especially when I was trying to download the platform with the Python package in my Windows operating system, and I met lots of strange error problems before I finally succeeded in operating an economic, behavioral game on that. As stated in the video (2021) provided in Ed, the advantage of its flexibility is found since the form of the website allows users to utilize any device that has a website. However, the pain point is also apparent, that the threshold of usage is still relatively high. As the video (2021) mentioned, even regardless of considering other languages like CSS and JavaScript, one has to spare a great deal of effort in learning Python skills to perform basic operations in three studios. 
 
