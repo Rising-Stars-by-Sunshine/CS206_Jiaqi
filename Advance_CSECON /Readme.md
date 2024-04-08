@@ -107,6 +107,8 @@ This paper made a thoughtful context by considering the participation level, but
 
 The most important problem here may be the "egg and chicken" problem proposed by Professor Luo during the meeting on Friday that we will never be able to know if participants have datasets highly relative to our model to define their intrinsic value to cut the budget but at the same time participants will be unwilling to share their data simply for defining intrinsic values before the project benefits them. There is no solid solution provided by this article on the tricky question, and future practical or empirical experiments are needed to find and develop answers to this paradox further.
 
+5. Beyond Computer Science and Economics
+
 ![CHAT1](Graphs/CHAT1.jpg)
 
 *Figure 5-communication with ChatGPT-1*
@@ -115,7 +117,7 @@ The most important problem here may be the "egg and chicken" problem proposed by
 
 *Figure 5-communication with ChatGPT-2*
 
-5. Beyond Computer Science and Economics
+
 
 Here is the conversation between ChatGPT and me. I was wondering how GPT would make strategies to optimize the benefit, and as expected, several suggestions on how to choose an optimal participation level and how to avoid being detected as self-intrinsic-valued were offered. It is a bit surprising that ChatGPT concluded several situations that may cause high intrinsic values and make related strategies to humanity. Except for some unethical such as providing noises to cheat the system, GPT showed some bounded rationality to a large extent in this case.
 
