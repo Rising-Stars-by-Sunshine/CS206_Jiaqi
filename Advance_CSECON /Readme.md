@@ -15,6 +15,4 @@ One example from my personal experience would be, as the graph below shows, when
 
 ![Graph_for_oTree](Graphs/Graph_for_oTree.jpg)
 
-[^1]:Figure 1-oTree data
-
----
+*Figure 1-oTree data*
