@@ -21,10 +21,13 @@ To solve the pain points, I propose to input the large language model that is de
 
 ![CHOICEFLOW](Graphs/CHOICEFLOW.jpg)
 
+*Figure 2-Choiceflow information*
 
 Although we can currently try to use ChatGPT to help us generate some advice or basic coding to operate the platform, it also requires users to have a deep understanding of the platform and input correct phrases and requirements to fulfill their needs. However, inputting a deep learning AI that is familiar with the platform rules would create a different condition, that users only need to create their expectations, even without a coding background, can the AI help them generate an appropriate environment to run their experiments with outcomes. 
 
-*Figure 2-Choiceflow information*
+![MODEL](Graphs/MODEL.jpg)
+
+*Figure 3-e.g. created by Whimsical*
 
 A basic chat flow showing how users can operate in the studio with the integration of LLM.
 ## Question 2
@@ -48,3 +51,33 @@ As the graph shows below, when agent A first cooperates, B will have the most pr
 ![PRISONER](Graphs/PRISONER.jpg)
 
 *Figure 4- output from prisoner's dilemma*
+
+Existing articles support the idea, as Zhang et al.(2019) mentioned, that the challenges of applying MARL in real-world scenarios are due to the complexity of accurately modeling environments and agent interactions. This is the limitation of using current algorithms to detect the complex relationships caused by economic environments. To better solve this problem, we need to provide MARL with thousands of tags representing different personalities, relationships, and risk premiums based on research and categorization from a broadly diversified population base.
+
+## Question 3
+
+Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research**
+
+Objective: The goal of this assignment is to engage critically with existing research in the field of federated learning, using the specific paper presented by the guest speaker as a primary example. Students will assess the paper's research questions, methodologies, and application scenarios and propose new research ideas addressing the identified limitations or gaps.
+
+Instructions:
+
+1. Summary of the Paper
+
+Core Research Questions: Briefly summarize the paper's primary research questions. What is the main problem or challenge the paper seeks to solve or understand?
+Methodologies: Describe the methods employed in the paper to address the research questions. Consider the approaches, models, or experimental designs used.
+Application Scenarios: Outline the application scenarios discussed in the paper. How does the paper propose to apply its findings or solutions in real-world contexts?
+
+2. Critique of the Research Question
+
+Reflect on the research questions posed in the paper. Are there other more significant objectives or questions that could be more relevant or impactful in this context? Explain why these alternative questions or objectives might offer more value or insight.
+
+3. Critique of the Methodology
+
+Analyze the assumptions made in the paper regarding the strategic environment and behavioral foundations. Discuss whether these assumptions are justified or if they require more reasonable treatment. Suggest how the methodology could be improved or altered to address these concerns.
+
+4. Critique of the Application Scenario
+
+Evaluate the relevance and currency of the federated learning scenarios presented in the paper. With the rapid advancement in technology, consider whether there are more modern or advanced application scenarios that could be more effective in solving similar issues, such as blockchain, generative AI, other privacy-preserving technologies, or quantum computing.
+
+5. Beyond Computer Science and Economics
