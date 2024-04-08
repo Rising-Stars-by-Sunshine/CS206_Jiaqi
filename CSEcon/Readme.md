@@ -1,6 +1,6 @@
 # Questions and relevant answers
 
-##Question 1
+## Question 1
 
 **When computer science meets economics**: Who do you truly want to become? Pick one of your favorite Nobel Prize winners (https://www.nobelprize.org/) and Turing Award winners (https://amturing.acm.org/). How do you want to contribute to the intersection of the two north stars to advance human civilizations? 
 
@@ -10,7 +10,7 @@ My favorite Nobel Prize winner is Daniel Kahneman, who integrated cognitive psyc
     
 I want to contribute by integrating generative AI into learning market behavior, using a large language model to help me test traditional economic theories that, as Daniel did, figure out more "unrealistic concepts of rationality. (Frängsmyr, 2019) We live in a complex world, and that huge information gap always leads different types of people to act differently. For instance, research conducted by Susan et al. (2022) found the pervasive nature of information asymmetry across various domains, not just in investments. They suggest that this information gap would cause people's lack of trust, market uncertainty, and diversified risk premium, which may cause irrationality in investments, businesses, and other aspects of society. The situation is spread out, and it's hard to analyze such complex and large data without the computer; generative AI may be a way out due to its deep and self-learning characteristics. By updating and improving the original economic theories, the newly generated theory would better fit the fast-developing and technological society.
 
-##Question 2
+## Question 2
 
 **CS&Econ for a Better Future**: How do you perceive the synergy between computer science and economics as a catalyst for steering innovation toward a brighter future? Please present a foundational assertion, followed by multiple specific instances that support your claim, including a reference to a topic discussed at the colloquium on Friday, March 22.
 
@@ -18,7 +18,7 @@ I want to contribute by integrating generative AI into learning market behavior,
 
 The synergy of computer science and economics to create innovation for the rising future seems to be an inevitable thing to happen. For a long time, economics has been a significant part of the world since it spares out and deeply researches how society works from humanity's basic needs, production, and consumption. Starting from the very beginning of society with simple goods exchange, it is not hard to realize that our current world is simply unifying the common good that citizens use to exchange for their necessities and further pursue goods and services by setting rules that generate necessary productions and consumptions to make us, the dominating species in the world, to coexist and keep this procedure forever. Computer science has been proven to be one of the most effective tools for generating work, and leading technologies such as generative AI have been deeply rooted in society, whether for academics, businesses, or other areas. This interdisciplinary approach should be important and will be a leading approach shortly. As the meeting on 22 March mentioned, Satya, introduced as the most innovative CEO in the world, appealed to industries and enterprises to generate design breakthroughs and market breakthroughs to better create surplus for partners and customers with the skillsets of machine learning and computer vision. He thinks that CS tools are inevitable and significant methods to find solutions for enterprises in both macro and micro-economies. This strongly shows that the interdisciplinary approach has a strong reason to exist and will be popular for a long time as long as society keeps developing CS technology. 
 
-##Question 3
+## Question 3
 
 **Beyond CS & Econ**: How are aspects of human nature, like bounded rationality, and pioneering technologies, such as generative AI, reshaping the dynamics between humans and AI agents in strategic contexts? Additionally, how might this interplay be perceived and conceptualized distinctively from current models? Address this inquiry by drawing upon the literature covered in our lectures and supplementary scholarly works, ensuring to include in-text citations and a comprehensive bibliography.
 
