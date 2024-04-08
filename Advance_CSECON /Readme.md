@@ -18,3 +18,5 @@ One example from my personal experience would be, as the graph below shows, when
 *Figure 1-oTree data*
 
 To solve the pain points, I propose to input the large language model that is deeply learned and familiar with the platform coding language into oTree. The article introducing a potential alternative to oTree, which was proposed by Aitharaju(2016), inspired me a lot. He mentioned Choice Flow, a platform that uses cloud-based data and automatically tracks user data and interaction data such as clicking time and behaviors that better help researchers manage and analyze. Instead of coding to design complex games, researchers only need to input storylines and discount strategies to imitate and observe participants' behaviors.  
+
+![CHOICEFLOW](Graphs/CHOICEFLOW.jpg)
