@@ -10,3 +10,8 @@ Hi, I'm Jiaqi Yao, a Junior from Shanghai, who majored in Economics at DKU. I am
 - **Email:** jy336@duke.edu
 ## About this Repo
 This repository is used for posting the Answers to Problem Set 1 of COMSCI/ECON206 Computational Microeconomics instructed by Prof. Luyao Zhang at DKU. The problems are mainly focused on the interdisciplinary approach between CS and ECON, that includes both theoretical parts and practical parts. For the theoretical parts, I provided some insights into the interaction between human nature and AI, like their separate features and how they can provide a better future together. For practical parts, I provided some works implemented using platforms such as oTree and Pettingzoo, to show the current limitations of technology and game theory, proposing better solutions that can be done in the future. 
+
+## Table of Contents
+
+- [CSEcon](https://github.com/Rising-Stars-by-Sunshine/ECON206_Jiaqi/blob/main/CSEcon/README.md)
+- [Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/ECON206_Jiaqi/blob/main/Advance_CSEcon/README.md)
