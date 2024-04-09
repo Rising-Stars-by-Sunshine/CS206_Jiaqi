@@ -13,5 +13,5 @@ This repository is used for posting the Answers to Problem Set 1 of COMSCI/ECON2
 
 ## Table of Contents
 
-- [CSEcon](https://github.com/Rising-Stars-by-Sunshine/ECON206_Jiaqi/blob/main/CSEcon/README.md)
+- [CSEcon](https://github.com/Rising-Stars-by-Sunshine/CS206_Jiaqi/tree/main/CSEcon)
 - [Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/CS206_Jiaqi/tree/main/Advance_CSECON%20)
