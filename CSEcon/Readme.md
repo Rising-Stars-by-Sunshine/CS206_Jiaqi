@@ -52,3 +52,6 @@ Horton, John J. 2023. Large Language Models as Simulated Economic Agents: What c
 
 Susan, Enyang Besong and Manases Mbengwor Natu. 2022. "A Critical Review of Information Asymmetry in the Business Cycle: How Digital Ledger Technology can Transform and Sustain the Business Cycle." PLOS Sustainability and Transformation 1 (7): e0000024.
 
+## Grammarly
+![GRAMMAR1](Graph/GRAMMAR1.jpg)
+
