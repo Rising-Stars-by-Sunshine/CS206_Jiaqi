@@ -27,9 +27,9 @@ Although we can currently try to use ChatGPT to help us generate some advice or 
 
 ![MODEL](Graphs/MODEL.jpg)
 
-*Figure 3-e.g. created by Whimsical*
+*Figure 3-e.g. Proposed model for improving oTree  created by Whimsical*
 
-Figure 3 shows a basic chat flow indicating how users can operate in the studio with the integration of LLM.
+Figure 3 shows a basic logic indicating how users can operate in the studio with the integration of LLM.
 ## Question 2
 
 Beyond Computer Science and Economics Methodology 2 Multi-agent Reinforcement Learning:  Advancing Multi-Agent Reinforcement Learning**
@@ -42,7 +42,7 @@ In the analysis, you must provide at least one example of your personal experien
 
 ![MARL](Graphs/MARL.jpg)
 
-*Figure 4- FLOWCHART for MARL learning*
+*Figure 4- FLOWCHART for MARL learning  created by Whimsical*
 
 Figure 4 shows some current drawbacks of MARL on game theory with detailed information.
 
@@ -95,7 +95,7 @@ You must provide a concrete example: Conduct a mini-experiment by interviewing a
 
 ![PAPER](Graphs/PAPER.jpg)
 
-*Figure 6-FLOWCHART for Luo et al. 2023*
+*Figure 6-FLOWCHART for Luo et al. 2023  created by Whimsical*
 
 Figure 6 shows the basic logic, summary, and critiques of this article.
 
