@@ -11,25 +11,25 @@ In the analysis, you must provide at least one example of your personal experien
 
 I had a suffering time with the oTree platform at the beginning, especially when I was trying to download the platform with the Python package in my Windows operating system, and I met lots of strange error problems before I finally succeeded in operating an economic, behavioral game on that. As stated in the video (2021) provided in Ed, the advantage of its flexibility is found since the form of the website allows users to utilize any device that has a website. However, the pain point is also apparent, that the threshold of usage is still relatively high. As the video (2021) mentioned, even regardless of considering other languages like CSS and JavaScript, one has to spare a great deal of effort in learning Python skills to perform basic operations in three studios. 
 
-One example from my personal experience would be, as the graph below shows, when I was trying to perform the trust game and the dictator game together by adding a constraint that the starting endowment of the dictator game was the exact amount that users left in the former trust game they played. By setting this constraint, I wish to create a continuous environment for the two games and better observe players' actions in the second game to see if they will make movements more biased toward rationality if some results in the first game change their minds. For example, one may be willing to offer the other player more endowments in the dictator game if the other player generously cooperated in the first game, which better shows bounded rationality. The problem occurred when I was trying to operate this idea on oTree studio, and due to the unfamiliar system and my poor coding skills, I finally failed to achieve this assumption.
+One example from my personal experience would be, as the graph below shows, when I was trying to perform the trust game and the dictator game together(see Figure 1) by adding a constraint that the starting endowment of the dictator game was the exact amount that users left in the former trust game they played. By setting this constraint, I wish to create a continuous environment for the two games and better observe players' actions in the second game to see if they will make movements more biased toward rationality if some results in the first game change their minds. For example, one may be willing to offer the other player more endowments in the dictator game if the other player generously cooperated in the first game, which better shows bounded rationality. The problem occurred when I was trying to operate this idea on oTree studio, and due to the unfamiliar system and my poor coding skills, I finally failed to achieve this assumption.
 
 ![Graph_for_oTree](Graphs/Graph_for_oTree.jpg)
 
 *Figure 1-oTree data*
 
-To solve the pain points, I propose to input the large language model that is deeply learned and familiar with the platform coding language into oTree. The article introducing a potential alternative to oTree, which was proposed by Aitharaju(2016), inspired me a lot. He mentioned Choice Flow, a platform that uses cloud-based data and automatically tracks user data and interaction data such as clicking time and behaviors that better help researchers manage and analyze. Instead of coding to design complex games, researchers only need to input storylines and discount strategies to imitate and observe participants' behaviors.  
+To solve the pain points, I propose to input the large language model that is deeply learned and familiar with the platform coding language into oTree. The article introducing a potential alternative to oTree, which was proposed by Aitharaju(2016), inspired me a lot. He mentioned Choice Flow(see Figure 2), a platform that uses cloud-based data and automatically tracks user data and interaction data such as clicking time and behaviors that better help researchers manage and analyze. Instead of coding to design complex games, researchers only need to input storylines and discount strategies to imitate and observe participants' behaviors.  
 
 ![CHOICEFLOW](Graphs/CHOICEFLOW.jpg)
 
 *Figure 2-Choiceflow information*
 
-Although we can currently try to use ChatGPT to help us generate some advice or basic coding to operate the platform, it also requires users to have a deep understanding of the platform and input correct phrases and requirements to fulfill their needs. However, inputting a deep learning AI that is familiar with the platform rules would create a different condition, that users only need to create their expectations, even without a coding background, can the AI help them generate an appropriate environment to run their experiments with outcomes. 
+Although we can currently try to use ChatGPT to help us generate some advice or basic coding to operate the platform, it also requires users to have a deep understanding of the platform and input correct phrases and requirements to fulfill their needs. However, inputting a deep learning AI that is familiar with the platform rules would create a different condition, that users only need to create their expectations, even without a coding background, can the AI help them generate an appropriate environment to run their experiments with outcomes. (see Figure 3)
 
 ![MODEL](Graphs/MODEL.jpg)
 
 *Figure 3-e.g. created by Whimsical*
 
-A basic chat flow showing how users can operate in the studio with the integration of LLM.
+Figure 3 shows a basic chat flow indicating how users can operate in the studio with the integration of LLM.
 ## Question 2
 
 Beyond Computer Science and Economics Methodology 2 Multi-agent Reinforcement Learning:  Advancing Multi-Agent Reinforcement Learning**
@@ -44,11 +44,13 @@ In the analysis, you must provide at least one example of your personal experien
 
 *Figure 4- FLOWCHART for MARL learning*
 
+Figure 4 shows some current drawbacks of MARL on game theory with detailed information.
+
 I utilized Petting Zoo and found some external resources (Tianyu, 2023) to integrate the prisoner's dilemma game with the link below. 
 
 https://colab.research.google.com/drive/1m6JSD4IWyZLy2YLLHvBO1gGSOq5FZqgL#scrollTo=FFia62oHljHq&uniqifier=2
 
-In this game, there are two players, each of whom has the option to choose to cooperate or to defect. Their actions will lead to their final rewards as follows: if both choose to cooperate, both will earn a moderate reward, but if one of them chooses to cooperate and the other chooses to betray, the one that betrayed will learn a higher reward and the one cooperated will earn nothing. If both choose to betray, then both will earn little reward. This game needs to take lots of facts into consideration, including both agent's risk premium, their original relationships, and so on. However, currently, it is hard for MARL to take all those into consideration to reach bounded rationality, and what they can do is add some randomization out of extreme rationality.
+In this game, there are two players, each of whom has the option to choose to cooperate or to defect. Their actions will lead to their final rewards as follows: if both choose to cooperate, both will earn a moderate reward, but if one of them chooses to cooperate and the other chooses to betray, the one that betrayed will learn a higher reward and the one cooperated will earn nothing. If both choose to betray, then both will earn little reward.(as set in Figure 4) This game needs to take lots of facts into consideration, including both agent's risk premium, their original relationships, and so on. However, currently, it is hard for MARL to take all those into consideration to reach bounded rationality, and what they can do is add some randomization out of extreme rationality.
 
 As the graph shows below, when agent A first cooperates, B will have the most probability of choosing to defect, and once being defected, A would have a trend to choose to defect at the very beginning. But when B appears a randomization to choose to cooperate at a time, A will turn back to cooperate to maximize the benefit.
 
@@ -56,7 +58,7 @@ As the graph shows below, when agent A first cooperates, B will have the most pr
 
 *Figure 5- output from prisoner's dilemma*
 
-Existing articles support the idea, as Zhang et al.(2019) mentioned, that the challenges of applying MARL in real-world scenarios are due to the complexity of accurately modeling environments and agent interactions. This is the limitation of using current algorithms to detect the complex relationships caused by economic environments. To better solve this problem, we need to provide MARL with thousands of tags representing different personalities, relationships, and risk premiums based on research and categorization from a broadly diversified population base.
+Existing articles support the idea, as Zhang et al.(2019) mentioned, that the challenges of applying MARL in real-world scenarios are due to the complexity of accurately modeling environments and agent interactions. This is the limitation of using current algorithms to detect the complex relationships caused by economic environments.(see Figure 5)  To better solve this problem, we need to provide MARL with thousands of tags representing different personalities, relationships, and risk premiums based on research and categorization from a broadly diversified population base.
 
 ## Question 3
 
@@ -97,23 +99,25 @@ You must provide a concrete example: Conduct a mini-experiment by interviewing a
 
 **Summary of the Paper (Luo et al. 2023)**
 
+Figure 6 shows the basic logic, summary, and critiques of this article.
+
 Core Research Questions: This paper aims to design a practical incentive mechanism for FL with partial client participation that ensures convergence to an unbiased model. The model also needs to measure each client's participation level's contribution and data relevance to the model.
 
-Methodologies: The paper proposes a game-theoretic incentive mechanism for FL with randomized client participation, with a customized pricing strategy. Its model concludes the participants' participation level, the cost, and their intrinsic value to attend the program, which can help minimize budget usage. A two-stage Stackelberg game was integrated to imitate the interaction between the server and clients. The server is the leader deciding on a pricing scheme and each client responds by choosing its best participation level.
+Methodologies: The paper proposes a game-theoretic incentive mechanism for FL with randomized client participation, with a customized pricing strategy. Its model concludes the participants' participation level, the cost, and their intrinsic value to attend the program, which can help minimize budget usage. A two-stage Stackelberg game was integrated to imitate the interaction between the server and clients. The server is the leader in deciding on a pricing scheme and each client responds by choosing its best participation level.
 
-Application Scenarios: This paper can be specifically applied to federated learning, indicating a future model between a central server and a large number of clients with different resources and availability. This is pretty significant for policy makers and investors when making decisions to apply decentralized finance in future society development.
+Application Scenarios: This paper can be specifically applied to federated learning, indicating a future model between a central server and a large number of clients with different resources and availability. This is pretty significant for policymakers and investors when making decisions to apply decentralized finance in future society development.
 
 2. Critique of the Research Question
 
-This paper focuses on designing an incentive mechanism for unbiased FL, but the scalability and robustness of such mechanisms  can also be considered. Questions about security, privacy, and robustness against client manipulation might be equally or more relevant.
+This paper focuses on designing an incentive mechanism for unbiased FL, but the scalability and robustness of such mechanisms  can also be considered. Questions about security, privacy, and robustness against client manipulation might be equally or more relevant.(As shown in Figure 6)
 
 3. Critique of the Methodology
 
-This paper made a thoughtful context by considering the participation level, but it makes humanity too rational at the starting point. As Professor Luo mentioned in the meeting, participants can choose their participation level, and the system will define their efforts to give them a price that they can optimize their benefit. However, through the mode that there are many training rounds, participants may simply add their effort with a high-level performance in the first one or two rounds and then upload simple noises that were unreal but hard to detect as outliers. In this way, many participants may cheat the system and benefit a lot without contributing their real datasets.
+This paper made a thoughtful context by considering the participation level, but it makes humanity too rational at the starting point. As Professor Luo mentioned in the meeting, participants can choose their participation level, and the system will define their efforts to give them a price that they can optimize their benefit. However, through the mode that there are many training rounds, participants may simply add their effort with a high-level performance in the first one or two rounds and then upload simple noises that were unreal but hard to detect as outliers. In this way, many participants may cheat the system and benefit a lot without contributing their real datasets.(As shown in Figure 6)
 
 4. Critique of the Application Scenario
 
-The most important problem here may be the "egg and chicken" problem proposed by Professor Luo during the meeting on Friday that we will never be able to know if participants have datasets highly relative to our model to define their intrinsic value to cut the budget but at the same time participants will be unwilling to share their data simply for defining intrinsic values before the project benefits them. There is no solid solution provided by this article on the tricky question, and future practical or empirical experiments are needed to find and develop answers to this paradox further.
+The most important problem here may be the "egg and chicken" problem proposed by Professor Luo during the meeting on Friday that we will never be able to know if participants have datasets highly relative to our model to define their intrinsic value to cut the budget but at the same time participants will be unwilling to share their data simply for defining intrinsic values before the project benefits them. There is no solid solution provided by this article on the tricky question, and future practical or empirical experiments are needed to find and develop answers to this paradox further.(As shown in Figure 6)
 
 5. Beyond Computer Science and Economics
 
@@ -127,7 +131,7 @@ The most important problem here may be the "egg and chicken" problem proposed by
 
 
 
-Here is the conversation between ChatGPT and me. I was wondering how GPT would make strategies to optimize the benefit, and as expected, several suggestions on how to choose an optimal participation level and how to avoid being detected as self-intrinsic-valued were offered. It is a bit surprising that ChatGPT concluded several situations that may cause high intrinsic values and make related strategies to humanity. Except for some unethical such as providing noises to cheat the system, GPT showed some bounded rationality to a large extent in this case.
+Here is the conversation between ChatGPT and me. (as shown in Figure 7, 8) I was wondering how GPT would make strategies to optimize the benefit, and as expected, several suggestions on how to choose an optimal participation level and how to avoid being detected as self-intrinsic-valued were offered. It is a bit surprising that ChatGPT concluded several situations that may cause high intrinsic values and make related strategies to humanity. Except for some unethical such as providing noises to cheat the system, GPT showed some bounded rationality to a large extent in this case.
 
 
 ## Bibliography
