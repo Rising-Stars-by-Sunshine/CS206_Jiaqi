@@ -97,9 +97,9 @@ You must provide a concrete example: Conduct a mini-experiment by interviewing a
 
 *Figure 6-FLOWCHART for Luo et al. 2023*
 
-**Summary of the Paper (Luo et al. 2023)**
-
 Figure 6 shows the basic logic, summary, and critiques of this article.
+
+**Summary of the Paper (Luo et al. 2023)**
 
 Core Research Questions: This paper aims to design a practical incentive mechanism for FL with partial client participation that ensures convergence to an unbiased model. The model also needs to measure each client's participation level's contribution and data relevance to the model.
 
@@ -113,11 +113,11 @@ This paper focuses on designing an incentive mechanism for unbiased FL, but the 
 
 3. Critique of the Methodology
 
-This paper made a thoughtful context by considering the participation level, but it makes humanity too rational at the starting point. As Professor Luo mentioned in the meeting, participants can choose their participation level, and the system will define their efforts to give them a price that they can optimize their benefit. However, through the mode that there are many training rounds, participants may simply add their effort with a high-level performance in the first one or two rounds and then upload simple noises that were unreal but hard to detect as outliers. In this way, many participants may cheat the system and benefit a lot without contributing their real datasets.(As shown in Figure 6)
+This paper made a thoughtful context by considering the participation level, but it makes humanity too rational at the starting point. As Professor Luo mentioned in the meeting, participants can choose their participation level, and the system will define their efforts to give them a price that they can optimize their benefit. However, through the mode that there are many training rounds, participants may simply add their effort with a high-level performance in the first one or two rounds and then upload simple noises that were unreal but hard to detect as outliers. In this way, many participants may cheat the system and benefit a lot without contributing their real datasets. (As shown in Figure 6)
 
 4. Critique of the Application Scenario
 
-The most important problem here may be the "egg and chicken" problem proposed by Professor Luo during the meeting on Friday that we will never be able to know if participants have datasets highly relative to our model to define their intrinsic value to cut the budget but at the same time participants will be unwilling to share their data simply for defining intrinsic values before the project benefits them. There is no solid solution provided by this article on the tricky question, and future practical or empirical experiments are needed to find and develop answers to this paradox further.(As shown in Figure 6)
+The most important problem here may be the "egg and chicken" problem proposed by Professor Luo during the meeting on Friday that we will never be able to know if participants have datasets highly relative to our model to define their intrinsic value to cut the budget but at the same time participants will be unwilling to share their data simply for defining intrinsic values before the project benefits them. There is no solid solution provided by this article on the tricky question, and future practical or empirical experiments are needed to find and develop answers to this paradox further. (As shown in Figure 6)
 
 5. Beyond Computer Science and Economics
 
